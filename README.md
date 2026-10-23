@@ -32,8 +32,7 @@ Estou a migrar para a área de tecnologia, a desenvolver competências em desenv
 
 ### 📬 Vamos conectar-nos?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_UTILIZADOR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@EXEMPLO.COM)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dizinho_gutierrez@hotmail.com)
 
 ---
 📂 **[Clique aqui para ver os meus repositórios e projetos](https://github.com/WaldirGutierrez?tab=repositories)**
