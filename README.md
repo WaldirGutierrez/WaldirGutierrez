@@ -1,38 +1,39 @@
-Hi, I'm Waldir Gutierrez 
-Full Stack Developer in Progress | Career Transition
+# Olá, eu sou o Waldir Gutierrez 👋
 
-I'm transitioning into the technology field, building my skills in software development and working toward becoming a Full Stack Developer.
+### Full Stack Developer | Transição de Carreira
 
-I enjoy learning new technologies, solving problems, and turning ideas into practical projects. My goal is to continuously improve my technical skills and contribute to meaningful software solutions.
+Estou a migrar para a área de tecnologia, a desenvolver competências em desenvolvimento de software backend e frontend. Tenho paixão por resolver problemas, escrever código limpo e criar aplicações práticas que geram valor.
 
-- Currently developing my skills in Full Stack Development
-- Exploring frontend and backend technologies
-- Interested in problem-solving, clean code, and continuous learning
-- Goal: Grow as a developer and contribute to real-world projects
-- Technologies & Tools
-Programming Languages
+---
 
-!Python !JavaScript !TypeScript !C
+### 🛠️ Tecnologias & Ferramentas
 
-Web Development
+**Linguagens de Programação:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-!HTML5 !CSS3
+**Desenvolvimento Web:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- Projects
+---
 
-I use personal projects to practice programming, explore new technologies, and strengthen my development skills.
+### 🎯 Foco Atual
 
-Check out my repositories to follow my progress and explore my work:
+- 📌 A consolidar fundamentos de algoritmos e estruturas de dados.
+- 💻 A construir projetos full stack práticos para o meu portfólio.
+- 🚀 A aplicar boas práticas de desenvolvimento (Clean Code, Versionamento).
 
-- Explore my repositories
+---
 
-<!-- Add your best projects here using their real repository links. -->
+### 📬 Vamos conectar-nos?
 
-📚 Currently Focused On
-Strengthening my programming fundamentals
-Building practical web development projects
-Improving my frontend and backend development skills
-Learning good software development practices
-🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_UTILIZADOR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@EXEMPLO.COM)
 
-I'm open to connecting with developers, exchanging knowledge, and exploring opportunities to grow in the technology field.
+---
+📂 **[Clique aqui para ver os meus repositórios e projetos](https://github.com/WaldirGutierrez?tab=repositories)**
